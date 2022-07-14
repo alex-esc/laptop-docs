@@ -1,0 +1,18 @@
+git status
+	see files on the repo
+	
+git add FILENAME
+	add a new file to repo
+	or re-add a file to uptade it
+	
+git add -A
+	adds all files!
+
+	
+git commit -m "message goes here"
+	commit to the repo
+	
+git push
+	push to the repo online
+
+ye
