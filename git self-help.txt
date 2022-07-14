@@ -1,4 +1,5 @@
-
+git pull
+	pull chnages to local mathcine
 
 git status
 	see files on the repo
@@ -16,7 +17,3 @@ git commit -m "message goes here"
 	
 git push
 	push to the repo online
-
-ye
-
-new and cool
