@@ -1,3 +1,4 @@
 @echo off
-echo run pwrh cd ~/laptop-docs
+explorer "C:\Users\varo\laptop-docs"
+pwsh -noexit -Command "cd ~/laptop-docs"
 pause
